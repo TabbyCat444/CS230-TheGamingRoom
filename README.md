@@ -23,7 +23,7 @@ I would likely revise the section regarding development tools the most, while I 
 
 ### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-I made recommendations regarding security and memory and storage management with the user in mind. These options accomadate concerns regarding privacy and safety as well as compensating for the desired to have a smooth operating experience while playing the game.
+I made recommendations regarding security and memory and storage management with the user in mind. These options accomadate concerns regarding privacy and safety as well as compensating for the desire to have a smooth operating experience while playing the game.
 
 
 ### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
